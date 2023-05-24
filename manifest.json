@@ -1,12 +1,12 @@
 {
-  "_ContextTitles-17b93a64.js": {
-    "file": "assets/ContextTitles-17b93a64.js",
+  "_ContextTitles-fc16a216.js": {
+    "file": "assets/ContextTitles-fc16a216.js",
     "imports": [
       "src/entry-client.jsx"
     ]
   },
-  "_index-b2a4e08e.js": {
-    "file": "assets/index-b2a4e08e.js",
+  "_index-9b4ff4cc.js": {
+    "file": "assets/index-9b4ff4cc.js",
     "imports": [
       "src/entry-client.jsx"
     ]
@@ -33,7 +33,7 @@
       "src/routes/(index)/news/(items).jsx",
       "src/routes/(index)/news/index.jsx"
     ],
-    "file": "assets/entry-client-485cbedf.js",
+    "file": "assets/entry-client-10c373c6.js",
     "isEntry": true,
     "src": "src/entry-client.jsx"
   },
@@ -45,17 +45,17 @@
     "css": [
       "assets/(index)-1553321f.css"
     ],
-    "file": "assets/(index)-5c3dd98a.js",
+    "file": "assets/(index)-d75ffade.js",
     "imports": [
       "src/entry-client.jsx",
       "src/routes/(index)/docs.jsx",
-      "_ContextTitles-17b93a64.js"
+      "_ContextTitles-fc16a216.js"
     ],
     "isDynamicEntry": true,
     "src": "src/routes/(index).jsx"
   },
   "src/routes/(index)/[...404].jsx": {
-    "file": "assets/_...404_-05a86d58.js",
+    "file": "assets/_...404_-158b931a.js",
     "imports": [
       "src/entry-client.jsx"
     ],
@@ -70,70 +70,70 @@
     "css": [
       "assets/docs-ec6eb359.css"
     ],
-    "file": "assets/docs-baa313c6.js",
+    "file": "assets/docs-a2f5d723.js",
     "imports": [
       "src/entry-client.jsx",
-      "_ContextTitles-17b93a64.js"
+      "_ContextTitles-fc16a216.js"
     ],
     "isDynamicEntry": true,
     "src": "src/routes/(index)/docs.jsx"
   },
   "src/routes/(index)/docs/contribute.mdx": {
-    "file": "assets/contribute-172eb535.js",
+    "file": "assets/contribute-af7515f1.js",
     "imports": [
-      "_index-b2a4e08e.js",
+      "_index-9b4ff4cc.js",
       "src/entry-client.jsx"
     ],
     "isDynamicEntry": true,
     "src": "src/routes/(index)/docs/contribute.mdx"
   },
   "src/routes/(index)/docs/donate.mdx": {
-    "file": "assets/donate-ec863c93.js",
+    "file": "assets/donate-4895f8ec.js",
     "imports": [
-      "_index-b2a4e08e.js",
+      "_index-9b4ff4cc.js",
       "src/entry-client.jsx"
     ],
     "isDynamicEntry": true,
     "src": "src/routes/(index)/docs/donate.mdx"
   },
   "src/routes/(index)/docs/features/features.mdx": {
-    "file": "assets/features-b72bfb10.js",
+    "file": "assets/features-897f6199.js",
     "imports": [
-      "_index-b2a4e08e.js",
+      "_index-9b4ff4cc.js",
       "src/entry-client.jsx"
     ],
     "isDynamicEntry": true,
     "src": "src/routes/(index)/docs/features/features.mdx"
   },
   "src/routes/(index)/docs/keybindings.mdx": {
-    "file": "assets/keybindings-2edbfcbf.js",
+    "file": "assets/keybindings-ee52bace.js",
     "imports": [
-      "_index-b2a4e08e.js",
+      "_index-9b4ff4cc.js",
       "src/entry-client.jsx"
     ],
     "isDynamicEntry": true,
     "src": "src/routes/(index)/docs/keybindings.mdx"
   },
   "src/routes/(index)/docs/quickstart/install.mdx": {
-    "file": "assets/install-2dd68686.js",
+    "file": "assets/install-3cf3aed2.js",
     "imports": [
       "src/entry-client.jsx",
-      "_index-b2a4e08e.js"
+      "_index-9b4ff4cc.js"
     ],
     "isDynamicEntry": true,
     "src": "src/routes/(index)/docs/quickstart/install.mdx"
   },
   "src/routes/(index)/docs/quickstart/post-install.mdx": {
-    "file": "assets/post-install-f3ba2251.js",
+    "file": "assets/post-install-75275c5c.js",
     "imports": [
       "src/entry-client.jsx",
-      "_index-b2a4e08e.js"
+      "_index-9b4ff4cc.js"
     ],
     "isDynamicEntry": true,
     "src": "src/routes/(index)/docs/quickstart/post-install.mdx"
   },
   "src/routes/(index)/index.css": {
-    "file": "assets/index-80f5a054.css",
+    "file": "assets/index-7148eea9.css",
     "src": "src/routes/(index)/index.css"
   },
   "src/routes/(index)/index.jsx": {
@@ -155,9 +155,9 @@
       "assets/fa-solid-900-4ee1b170.svg"
     ],
     "css": [
-      "assets/index-80f5a054.css"
+      "assets/index-7148eea9.css"
     ],
-    "file": "assets/index-14d2f100.js",
+    "file": "assets/index-1a662fdd.js",
     "imports": [
       "src/entry-client.jsx"
     ],
@@ -165,16 +165,16 @@
     "src": "src/routes/(index)/index.jsx"
   },
   "src/routes/(index)/news/(items).jsx": {
-    "file": "assets/(items)-86f0eacf.js",
+    "file": "assets/(items)-fe2f3078.js",
     "imports": [
       "src/entry-client.jsx",
-      "_ContextTitles-17b93a64.js"
+      "_ContextTitles-fc16a216.js"
     ],
     "isDynamicEntry": true,
     "src": "src/routes/(index)/news/(items).jsx"
   },
   "src/routes/(index)/news/index.jsx": {
-    "file": "assets/index-9f68b701.js",
+    "file": "assets/index-83f93729.js",
     "imports": [
       "src/entry-client.jsx"
     ],
