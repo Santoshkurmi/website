@@ -6,7 +6,7 @@
   "assets/entry-client-!~{001}~.js-unocss-hash.css": [
   ],
   "node_modules/@docsearch/css/dist/style.css": [
-    "/website/assets/(index)-d75ffade.js",
+    "/website/assets/(index)-e1a69592.js",
     "/website/assets/(index)-1553321f.css"
   ],
   "node_modules/@solidjs/meta/dist/index.jsx": [
@@ -24,12 +24,12 @@
   "node_modules/solid-js/dist/solid.js": [
   ],
   "node_modules/solid-js/store/dist/store.js": [
-    "/website/assets/ContextTitles-fc16a216.js"
+    "/website/assets/ContextTitles-6cfeea29.js"
   ],
   "node_modules/solid-js/web/dist/web.js": [
   ],
   "node_modules/solid-mdx/dist/index.mjs": [
-    "/website/assets/index-9b4ff4cc.js"
+    "/website/assets/index-13c0c50a.js"
   ],
   "node_modules/solid-start/entry-client/StartClient.tsx": [
   ],
@@ -48,15 +48,15 @@
   "node_modules/solid-start/server/ServerContext.tsx": [
   ],
   "node_modules/solid-start/server/components/HttpStatusCode.tsx": [
-    "/website/assets/_...404_-158b931a.js"
+    "/website/assets/_...404_-5ab0728f.js"
   ],
   "node_modules/solid-start/server/types.tsx": [
   ],
   "src/components/ContextTitles.jsx": [
-    "/website/assets/ContextTitles-fc16a216.js"
+    "/website/assets/ContextTitles-6cfeea29.js"
   ],
   "src/components/Landing_Page/homepage.jsx": [
-    "/website/assets/index-1a662fdd.js",
+    "/website/assets/index-6ea96df7.js",
     "/website/assets/index-7148eea9.css",
     "/website/assets/fa-brands-400-931d1733.eot",
     "/website/assets/fa-brands-400-1f49b870.woff2",
@@ -75,34 +75,34 @@
     "/website/assets/fa-solid-900-4ee1b170.svg"
   ],
   "src/components/Navbar.jsx": [
-    "/website/assets/(index)-d75ffade.js",
+    "/website/assets/(index)-e1a69592.js",
     "/website/assets/(index)-1553321f.css"
   ],
   "src/components/doc_comps/Sidebar.jsx": [
-    "/website/assets/docs-a2f5d723.js",
+    "/website/assets/docs-e9a39719.js",
     "/website/assets/docs-ec6eb359.css"
   ],
   "src/components/doc_comps/clipboard.jsx": [
-    "/website/assets/docs-a2f5d723.js",
+    "/website/assets/docs-e9a39719.js",
     "/website/assets/docs-ec6eb359.css"
   ],
   "src/components/doc_comps/nextprevPage.jsx": [
-    "/website/assets/docs-a2f5d723.js",
+    "/website/assets/docs-e9a39719.js",
     "/website/assets/docs-ec6eb359.css"
   ],
   "src/components/doc_comps/sidebar_Items.jsx": [
-    "/website/assets/docs-a2f5d723.js",
+    "/website/assets/docs-e9a39719.js",
     "/website/assets/docs-ec6eb359.css"
   ],
   "src/components/news_comps/NewsPage.jsx": [
-    "/website/assets/(items)-fe2f3078.js"
+    "/website/assets/(items)-bf99015b.js"
   ],
   "src/css/hljs.css": [
-    "/website/assets/docs-a2f5d723.js",
+    "/website/assets/docs-e9a39719.js",
     "/website/assets/docs-ec6eb359.css"
   ],
   "src/css/main.css": [
-    "/website/assets/index-1a662fdd.js",
+    "/website/assets/index-6ea96df7.js",
     "/website/assets/index-7148eea9.css",
     "/website/assets/fa-brands-400-931d1733.eot",
     "/website/assets/fa-brands-400-1f49b870.woff2",
@@ -121,7 +121,7 @@
     "/website/assets/fa-solid-900-4ee1b170.svg"
   ],
   "src/css/markdown.css": [
-    "/website/assets/docs-a2f5d723.js",
+    "/website/assets/docs-e9a39719.js",
     "/website/assets/docs-ec6eb359.css"
   ],
   "src/css/style.css": [
@@ -131,36 +131,36 @@
   "src/root.jsx": [
   ],
   "src/routes/(index).jsx": [
-    "/website/assets/(index)-d75ffade.js",
+    "/website/assets/(index)-e1a69592.js",
     "/website/assets/(index)-1553321f.css"
   ],
   "src/routes/(index)/[...404].jsx": [
-    "/website/assets/_...404_-158b931a.js"
+    "/website/assets/_...404_-5ab0728f.js"
   ],
   "src/routes/(index)/docs.jsx": [
-    "/website/assets/docs-a2f5d723.js",
+    "/website/assets/docs-e9a39719.js",
     "/website/assets/docs-ec6eb359.css"
   ],
   "src/routes/(index)/docs/contribute.mdx": [
-    "/website/assets/contribute-af7515f1.js"
+    "/website/assets/contribute-a8ff8300.js"
   ],
   "src/routes/(index)/docs/donate.mdx": [
-    "/website/assets/donate-4895f8ec.js"
+    "/website/assets/donate-76a1e404.js"
   ],
   "src/routes/(index)/docs/features/features.mdx": [
-    "/website/assets/features-897f6199.js"
+    "/website/assets/features-c03f278a.js"
   ],
   "src/routes/(index)/docs/keybindings.mdx": [
-    "/website/assets/keybindings-ee52bace.js"
+    "/website/assets/keybindings-9c476d71.js"
   ],
   "src/routes/(index)/docs/quickstart/install.mdx": [
-    "/website/assets/install-3cf3aed2.js"
+    "/website/assets/install-2861b591.js"
   ],
   "src/routes/(index)/docs/quickstart/post-install.mdx": [
-    "/website/assets/post-install-75275c5c.js"
+    "/website/assets/post-install-dae2a4d2.js"
   ],
   "src/routes/(index)/index.jsx": [
-    "/website/assets/index-1a662fdd.js",
+    "/website/assets/index-6ea96df7.js",
     "/website/assets/index-7148eea9.css",
     "/website/assets/fa-brands-400-931d1733.eot",
     "/website/assets/fa-brands-400-1f49b870.woff2",
@@ -179,15 +179,15 @@
     "/website/assets/fa-solid-900-4ee1b170.svg"
   ],
   "src/routes/(index)/news/(items).jsx": [
-    "/website/assets/(items)-fe2f3078.js"
+    "/website/assets/(items)-bf99015b.js"
   ],
   "src/routes/(index)/news/(items)/index.js": [
-    "/website/assets/index-83f93729.js"
+    "/website/assets/index-8bc67e23.js"
   ],
   "src/routes/(index)/news/index.jsx": [
-    "/website/assets/index-83f93729.js"
+    "/website/assets/index-8bc67e23.js"
   ],
   "src/utils.jsx": [
-    "/website/assets/ContextTitles-fc16a216.js"
+    "/website/assets/ContextTitles-6cfeea29.js"
   ]
 }
