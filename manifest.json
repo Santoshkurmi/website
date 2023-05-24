@@ -1,12 +1,12 @@
 {
-  "_index-565875d9.js": {
-    "file": "assets/index-565875d9.js",
+  "_index-fcb382c5.js": {
+    "file": "assets/index-fcb382c5.js",
     "imports": [
       "src/entry-client.jsx"
     ]
   },
-  "_utils-bc75833d.js": {
-    "file": "assets/utils-bc75833d.js",
+  "_utils-21a1ff42.js": {
+    "file": "assets/utils-21a1ff42.js",
     "imports": [
       "src/entry-client.jsx"
     ]
@@ -33,7 +33,7 @@
       "src/routes/(index)/news/(items).jsx",
       "src/routes/(index)/news/index.jsx"
     ],
-    "file": "assets/entry-client-16e9cbe9.js",
+    "file": "assets/entry-client-122f1618.js",
     "isEntry": true,
     "src": "src/entry-client.jsx"
   },
@@ -45,17 +45,17 @@
     "css": [
       "assets/(index)-1553321f.css"
     ],
-    "file": "assets/(index)-5532b3d2.js",
+    "file": "assets/(index)-16a85933.js",
     "imports": [
       "src/entry-client.jsx",
       "src/routes/(index)/docs.jsx",
-      "_utils-bc75833d.js"
+      "_utils-21a1ff42.js"
     ],
     "isDynamicEntry": true,
     "src": "src/routes/(index).jsx"
   },
   "src/routes/(index)/[...404].jsx": {
-    "file": "assets/_...404_-7193a499.js",
+    "file": "assets/_...404_-bde9f7cc.js",
     "imports": [
       "src/entry-client.jsx"
     ],
@@ -70,64 +70,64 @@
     "css": [
       "assets/docs-ec6eb359.css"
     ],
-    "file": "assets/docs-fca47537.js",
+    "file": "assets/docs-1a25d4dd.js",
     "imports": [
       "src/entry-client.jsx",
-      "_utils-bc75833d.js"
+      "_utils-21a1ff42.js"
     ],
     "isDynamicEntry": true,
     "src": "src/routes/(index)/docs.jsx"
   },
   "src/routes/(index)/docs/contribute.mdx": {
-    "file": "assets/contribute-9207c393.js",
+    "file": "assets/contribute-91da6bae.js",
     "imports": [
-      "_index-565875d9.js",
+      "_index-fcb382c5.js",
       "src/entry-client.jsx"
     ],
     "isDynamicEntry": true,
     "src": "src/routes/(index)/docs/contribute.mdx"
   },
   "src/routes/(index)/docs/donate.mdx": {
-    "file": "assets/donate-d9e73008.js",
+    "file": "assets/donate-74851917.js",
     "imports": [
-      "_index-565875d9.js",
+      "_index-fcb382c5.js",
       "src/entry-client.jsx"
     ],
     "isDynamicEntry": true,
     "src": "src/routes/(index)/docs/donate.mdx"
   },
   "src/routes/(index)/docs/features/features.mdx": {
-    "file": "assets/features-e5719a4a.js",
+    "file": "assets/features-f647f5f3.js",
     "imports": [
-      "_index-565875d9.js",
+      "_index-fcb382c5.js",
       "src/entry-client.jsx"
     ],
     "isDynamicEntry": true,
     "src": "src/routes/(index)/docs/features/features.mdx"
   },
   "src/routes/(index)/docs/keybindings.mdx": {
-    "file": "assets/keybindings-955143a7.js",
+    "file": "assets/keybindings-2887de0e.js",
     "imports": [
-      "_index-565875d9.js",
+      "_index-fcb382c5.js",
       "src/entry-client.jsx"
     ],
     "isDynamicEntry": true,
     "src": "src/routes/(index)/docs/keybindings.mdx"
   },
   "src/routes/(index)/docs/quickstart/install.mdx": {
-    "file": "assets/install-24c6d05c.js",
+    "file": "assets/install-c561be54.js",
     "imports": [
       "src/entry-client.jsx",
-      "_index-565875d9.js"
+      "_index-fcb382c5.js"
     ],
     "isDynamicEntry": true,
     "src": "src/routes/(index)/docs/quickstart/install.mdx"
   },
   "src/routes/(index)/docs/quickstart/post-install.mdx": {
-    "file": "assets/post-install-1b575c88.js",
+    "file": "assets/post-install-40459085.js",
     "imports": [
       "src/entry-client.jsx",
-      "_index-565875d9.js"
+      "_index-fcb382c5.js"
     ],
     "isDynamicEntry": true,
     "src": "src/routes/(index)/docs/quickstart/post-install.mdx"
@@ -157,7 +157,7 @@
     "css": [
       "assets/index-7148eea9.css"
     ],
-    "file": "assets/index-283cae83.js",
+    "file": "assets/index-a66bda38.js",
     "imports": [
       "src/entry-client.jsx"
     ],
@@ -165,16 +165,16 @@
     "src": "src/routes/(index)/index.jsx"
   },
   "src/routes/(index)/news/(items).jsx": {
-    "file": "assets/(items)-a22dff2c.js",
+    "file": "assets/(items)-811ed77f.js",
     "imports": [
       "src/entry-client.jsx",
-      "_utils-bc75833d.js"
+      "_utils-21a1ff42.js"
     ],
     "isDynamicEntry": true,
     "src": "src/routes/(index)/news/(items).jsx"
   },
   "src/routes/(index)/news/index.jsx": {
-    "file": "assets/index-9e34ead1.js",
+    "file": "assets/index-2294156a.js",
     "imports": [
       "src/entry-client.jsx"
     ],
