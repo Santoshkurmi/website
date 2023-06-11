@@ -1,20 +1,20 @@
 {
-  "_index-15aa664c.js": {
-    "file": "assets/index-15aa664c.js",
+  "_index-61f23998.js": {
+    "file": "assets/index-61f23998.js",
     "imports": [
       "src/entry-client.jsx"
     ]
   },
-  "_metis_V2.0-80b583ba.js": {
-    "file": "assets/metis_V2.0-80b583ba.js",
+  "_metis_V2.0-7cd2e89f.js": {
+    "file": "assets/metis_V2.0-7cd2e89f.js",
     "imports": [
       "src/entry-client.jsx",
-      "_index-15aa664c.js"
+      "_index-61f23998.js"
     ],
     "isDynamicEntry": true
   },
-  "_utils-af3be832.js": {
-    "file": "assets/utils-af3be832.js",
+  "_utils-e3ca54b4.js": {
+    "file": "assets/utils-e3ca54b4.js",
     "imports": [
       "src/entry-client.jsx"
     ]
@@ -39,10 +39,10 @@
       "src/routes/(index)/docs/quickstart/post-install.mdx",
       "src/routes/(index)/index.jsx",
       "src/routes/(index)/news/(items).jsx",
-      "_metis_V2.0-80b583ba.js",
+      "_metis_V2.0-7cd2e89f.js",
       "src/routes/(index)/news/index.jsx"
     ],
-    "file": "assets/entry-client-bdbba50c.js",
+    "file": "assets/entry-client-2c202da4.js",
     "isEntry": true,
     "src": "src/entry-client.jsx"
   },
@@ -54,17 +54,17 @@
     "css": [
       "assets/(index)-1553321f.css"
     ],
-    "file": "assets/(index)-5111b34a.js",
+    "file": "assets/(index)-b5acac7c.js",
     "imports": [
       "src/entry-client.jsx",
       "src/routes/(index)/docs.jsx",
-      "_utils-af3be832.js"
+      "_utils-e3ca54b4.js"
     ],
     "isDynamicEntry": true,
     "src": "src/routes/(index).jsx"
   },
   "src/routes/(index)/[...404].jsx": {
-    "file": "assets/_...404_-bdd2f234.js",
+    "file": "assets/_...404_-e9a64607.js",
     "imports": [
       "src/entry-client.jsx"
     ],
@@ -79,70 +79,70 @@
     "css": [
       "assets/docs-ec6eb359.css"
     ],
-    "file": "assets/docs-f9d1c297.js",
+    "file": "assets/docs-52b7981f.js",
     "imports": [
       "src/entry-client.jsx",
-      "_utils-af3be832.js"
+      "_utils-e3ca54b4.js"
     ],
     "isDynamicEntry": true,
     "src": "src/routes/(index)/docs.jsx"
   },
   "src/routes/(index)/docs/contribute.mdx": {
-    "file": "assets/contribute-b12e2abb.js",
+    "file": "assets/contribute-e17c67e9.js",
     "imports": [
-      "_index-15aa664c.js",
+      "_index-61f23998.js",
       "src/entry-client.jsx"
     ],
     "isDynamicEntry": true,
     "src": "src/routes/(index)/docs/contribute.mdx"
   },
   "src/routes/(index)/docs/donate.mdx": {
-    "file": "assets/donate-9978fec2.js",
+    "file": "assets/donate-b9702d1b.js",
     "imports": [
-      "_index-15aa664c.js",
+      "_index-61f23998.js",
       "src/entry-client.jsx"
     ],
     "isDynamicEntry": true,
     "src": "src/routes/(index)/docs/donate.mdx"
   },
   "src/routes/(index)/docs/features/features.mdx": {
-    "file": "assets/features-dd324e65.js",
+    "file": "assets/features-56869671.js",
     "imports": [
-      "_index-15aa664c.js",
+      "_index-61f23998.js",
       "src/entry-client.jsx"
     ],
     "isDynamicEntry": true,
     "src": "src/routes/(index)/docs/features/features.mdx"
   },
   "src/routes/(index)/docs/keybindings.mdx": {
-    "file": "assets/keybindings-e6c07553.js",
+    "file": "assets/keybindings-fde4adf6.js",
     "imports": [
-      "_index-15aa664c.js",
+      "_index-61f23998.js",
       "src/entry-client.jsx"
     ],
     "isDynamicEntry": true,
     "src": "src/routes/(index)/docs/keybindings.mdx"
   },
   "src/routes/(index)/docs/quickstart/install.mdx": {
-    "file": "assets/install-5cb1ec31.js",
+    "file": "assets/install-b3e1bf65.js",
     "imports": [
       "src/entry-client.jsx",
-      "_index-15aa664c.js"
+      "_index-61f23998.js"
     ],
     "isDynamicEntry": true,
     "src": "src/routes/(index)/docs/quickstart/install.mdx"
   },
   "src/routes/(index)/docs/quickstart/post-install.mdx": {
-    "file": "assets/post-install-650c3b70.js",
+    "file": "assets/post-install-b8ba1c57.js",
     "imports": [
       "src/entry-client.jsx",
-      "_index-15aa664c.js"
+      "_index-61f23998.js"
     ],
     "isDynamicEntry": true,
     "src": "src/routes/(index)/docs/quickstart/post-install.mdx"
   },
   "src/routes/(index)/index.css": {
-    "file": "assets/index-7148eea9.css",
+    "file": "assets/index-80f5a054.css",
     "src": "src/routes/(index)/index.css"
   },
   "src/routes/(index)/index.jsx": {
@@ -164,9 +164,9 @@
       "assets/fa-solid-900-4ee1b170.svg"
     ],
     "css": [
-      "assets/index-7148eea9.css"
+      "assets/index-80f5a054.css"
     ],
-    "file": "assets/index-808333da.js",
+    "file": "assets/index-e4af75e0.js",
     "imports": [
       "src/entry-client.jsx"
     ],
@@ -174,20 +174,20 @@
     "src": "src/routes/(index)/index.jsx"
   },
   "src/routes/(index)/news/(items).jsx": {
-    "file": "assets/(items)-b8fa5f79.js",
+    "file": "assets/(items)-515c3658.js",
     "imports": [
       "src/entry-client.jsx",
-      "_utils-af3be832.js"
+      "_utils-e3ca54b4.js"
     ],
     "isDynamicEntry": true,
     "src": "src/routes/(index)/news/(items).jsx"
   },
   "src/routes/(index)/news/index.jsx": {
-    "file": "assets/index-696b26e6.js",
+    "file": "assets/index-2b3e91fd.js",
     "imports": [
       "src/entry-client.jsx",
-      "_metis_V2.0-80b583ba.js",
-      "_index-15aa664c.js"
+      "_metis_V2.0-7cd2e89f.js",
+      "_index-61f23998.js"
     ],
     "isDynamicEntry": true,
     "src": "src/routes/(index)/news/index.jsx"
